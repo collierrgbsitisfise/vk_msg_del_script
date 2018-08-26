@@ -6,8 +6,8 @@
 
 #2)Clone project or download zip
 
-#3)open app directory in terminal/cmd
+#3)Open app directory in terminal/cmd
 
-#4)open vk.api.js and enter you'r credentials
+#4)Open vk.api.js and enter your credentials
 
-#5)execute script -> node app.js
+#5)Execute script -> node app.js
